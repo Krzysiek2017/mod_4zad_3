@@ -1,0 +1,18 @@
+﻿.TodoList {
+	background-color: lightcoral;
+	font-size: 40px;
+	font-family: cursive;
+	text-align: center;
+	width: 1200px;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+.TodoList button {
+	background-color: darkgoldenrod;
+	font-size: 25px;
+	font-family: cursive;
+	padding: 10px;
+	border-radius: 20px;
+	cursor: pointer;
+}
